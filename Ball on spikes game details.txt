@@ -1,0 +1,19 @@
+Daydream hackclub game jam
+Theme: sacrifice 
+GAME NAME : BALL ON SPIKES
+CREATOR: Mohamed rayyan M
+
+HOW BALL ON SPIKES COMES UNDER THE THEME SACRIFICE ?
+
+The player must sacrifice safety and patience, carefully planning each jump to succeed.
+
+The player’s goal is to reach the end, but they can’t rush.
+
+In a way, the player sacrifices speed, comfort, or shortcuts to avoid the spikes.
+
+Often in these games, players die multiple times before succeeding.
+
+This represents the sacrifice of time and repeated effort to achieve success.
+
+MADE ON SOFTWARE: Gdevelop
+GITHUB REPOSITORY: https://github.com/rynhackclub/Ball-on-spikes---Daydream
